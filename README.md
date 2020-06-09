@@ -1,0 +1,1 @@
+# Django Boilerplate for SB Admin 2 Theme
